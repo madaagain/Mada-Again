@@ -4,11 +4,6 @@ Welcome to my GitHub profile! I'm just a random guy who loves programming. My jo
 ## About Me
 As a developer, I enjoy coding with C, C++, and Python. These languages are my go-to tools because they're just fun to work with. My passion for programming spans a wide range of projects, from low-level system programming to my current focus on implementing **safer AI** on local machines in the simplest way possible for users 🦹.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madaagain&show_icons=true)
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=madaagain)](https://github.com/anuraghazra/github-readme-stats)
-
 ## 🛠️ My Toolbox
 Main Languages: C, C++, Python. sometimes X86-64 assembly (very rarely) 🍟
 Tools & Technologies: Git, Linux, Docker, Ansible...
