@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm just a random guy who loves programming. My journey through code is essentially guided by curiosity: if something seems interesting, I'll dive into it 🧌.
 
 ## About Me
-As a developer, I enjoy coding with C, C++, and Python. These languages are my go-to tools because they're just fun to work with. My passion for programming spans a wide range of projects, from low-level system programming to my current focus on implementing **safer AI** on local machines in the simplest way possible for users 🦹.
+As a developer, I enjoy coding with C, C++, and Python. These languages are my go-to tools because they're just fun to work with. An average day when I program is from low-level to system programming to my current focus on implementing **safer AI** on local machines in the simplest way possible for users 🦹.
 
 ## 🛠️ My Toolbox
 Main Languages: C, C++, Python. sometimes X86-64 assembly (very rarely) 🍟
