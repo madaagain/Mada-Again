@@ -19,9 +19,9 @@ Interests: Systems programming, Application development, Automation, and explori
 
 - To share more of my projects with the community and contribute to open-source projects.
 
-- To continuously expand my knowledge and skills in both familiar and new domains.
+- To learn so new stuff.
 
-- To build and contribute to meaningful projects.
+- To build and contribute to only cool **Projects**.
 
 ## 📫 How to Reach Me
 
