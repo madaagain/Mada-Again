@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm just a random guy who loves programming. My jo
 ## About Me
 As a developer, I enjoy coding with C, C++, and Python. An average day when I program is from low-level to system programming to my current focus on implementing **safer AI** on local machines in the simplest way possible for users 🦹.
 
-## 🛠️ My Toolbox
+## 🛠️ Tools
 Main Languages: C, C++, Python. sometimes X86-64 assembly (very rarely) 🍟
 Tools & Technologies: Git, Linux, Docker, Ansible...
 Interests: Systems programming, Low-Level, ML/DL🏗️.
@@ -21,4 +21,4 @@ Interests: Systems programming, Low-Level, ML/DL🏗️.
 
 Email:
 LinkedIn:
-Twitter: @
+Twitter: @MadaErz
