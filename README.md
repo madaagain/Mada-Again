@@ -9,7 +9,7 @@ Main Languages: C, C++, Python. sometimes X86-64 assembly (very rarely) 🍟
 Tools & Technologies: Git, Linux, Docker, Ansible...
 Interests: Systems programming, Low-Level, ML/DL🏗️.
 
-## 🌱 Learning @EPITECH - European Institute Of Technology
+## 🌱 @EPITECH - European Institute Of Technology
 
 - I enjoy Advanced concepts in C++20 and the latest in Python 3.9+
 - Exploring ML/DL algorithms and the application of NLP/LLM on more modest, power-efficient machines
